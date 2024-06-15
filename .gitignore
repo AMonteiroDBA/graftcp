@@ -5,3 +5,4 @@ local/cmd/mgraftcp/mgraftcp
 *.o
 *.d
 *.a
+ver.txt
